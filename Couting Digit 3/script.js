@@ -4,7 +4,7 @@
 // 234>0     234/10=>23    count=2
 // 23>0      23/10=2     count=3
 // 2>0       2/10=0      count=4
-// 0>0 false.
+// 0>0 false. rertrun count.
 
 // corner case if 0 then count 1
 // if -ve number -7890 then loop will not run sol convert into the +ve number.
